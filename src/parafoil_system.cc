@@ -12,7 +12,6 @@ int main(){
     PAD.SystemInitialization();
 
     //PAD.Sim_With_DesignedInputs();
-    //PAD.Save_State();
     
     PVA pva;
     Vector3d v_wind;
