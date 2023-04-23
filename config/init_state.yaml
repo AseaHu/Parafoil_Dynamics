@@ -1,0 +1,21 @@
+%YAML:1.0
+Position:
+  x: 0
+  y: 0
+  z: -1000
+  
+Velocity: 10
+
+GlidingAngle: -18
+
+EulerAngle:
+  roll: 0
+  pitch: -18
+  yaw: 0
+  
+AngularRate:
+  wx: 0
+  wy: 0
+  wz: 0
+  
+TimeStep: 0.1

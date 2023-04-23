@@ -1,0 +1,17 @@
+%YAML:1.0
+C_L_0: 0.4
+C_D_0: 0.15
+C_l_p: -0.1
+C_m_q: -2
+C_n_r: -0.07
+C_L_da: 0.0001
+C_D_da: 0.0001
+C_l_da: 0.0127
+C_L_alpha: 2
+C_D_alpha: 1
+C_l_phi: -0.05
+C_m_0: 0.018
+C_m_alpha: -0.2
+C_L_ds: 0.21
+C_D_ds: 0.3
+C_n_da: 0.0242
